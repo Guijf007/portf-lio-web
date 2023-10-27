@@ -1,0 +1,11 @@
+#portfoliob{
+    background-image: url(https://img.freepik.com/fotos-premium/numeros-em-queda-ilustracao-da-matriz-fundo-digital-escuro-com-efeito-de-ruido-falha-na-matriz-de-codigo-corrompido-visualizacao-de-big-data_710001-724.jpg?w=826);
+    background-size: cover;
+}
+.texto{
+    color: aliceblue;
+}
+#voltar{
+    color: black;
+    font-size: 30px;
+}
