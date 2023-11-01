@@ -1,0 +1,27 @@
+table{
+    border: 2px white solid;
+    width: 150px;
+    height: 100px;
+}
+button{
+    width: 50;
+    height: 25;
+    border: 2px white solid;
+}
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/87/851/622/laptop-backgrounds-nature-images-1920x1200-wallpaper-preview.jpg);
+    background-size: cover;
+}
+p{
+    color: white;
+}
+legend{
+    color: white;
+}
+h1{
+    color: white;
+}
+a{
+    color: white;
+    font-size: 40px;
+}

@@ -37,5 +37,10 @@ h4{
     color: rgb(255, 255, 255);
 }
 a:link{
-    text-decoration: none;
+    text-decoration: none; 
+}
+#merchant{
+    position: absolute;
+    right: 100px;
+    top: 200px;
 }
